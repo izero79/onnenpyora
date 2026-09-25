@@ -1,0 +1,31 @@
+[Options]
+Compress=No
+Copyright=¸TESI software 1995-1998
+ErrorLog=vbaha.log
+OldKeyPhrase=No
+Root=i:\tero\ohjelmoi\vb5\onnenpy”\help
+Title=Onnenpy”r„n Ohje
+Warning=1
+
+[Files]
+i:\tero\ohjelmoi\vb5\onnenpy”\help\op.rtf
+
+[BuildTags]
+
+[Config]
+RegisterRoutine("mmsystem.dll","mciSendString","U=SUii")
+RegisterRoutine("mmsystem.dll", "sndPlaySound", "i=Si")
+
+BrowseButtons()
+
+[Map]
+Tietoja 1
+Saannot 2
+Lisasaannot 3
+
+[Alias]
+
+[Windows]
+ZZZZZZZZ="",(0,0,350,623),0,(255,255,255),(192,192,192), 0
+
+[Baggage]

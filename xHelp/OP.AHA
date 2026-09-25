@@ -1,0 +1,461 @@
+VBAHA153
+i:\tero\ohjelmoi\vb5\onnenpyö\help
+
+
+
+Onnenpyörän Ohje
+
+
+©TESI software 1995-1998
+
+
+
+
+
+0
+0
+0
+i:\tero\ohjelmoi\vb5\onnenpyö\help\op.rtf
+
+RegisterRoutine("mmsystem.dll", "sndPlaySound", "i=Si")
+
+
+
+1
+0
+0
+0
+1
+1
+1
+0
+1
+0
+0
+0
+
+
+2
+Tietoja Onnenpyörästä
+Tietoja
+tietoja pelistä
+
+
+
+
+
+
+1
+0
+6
+2
+MS Sans Serif
+16
+0
+245
+101
+0
+1
+0
+0
+
+
+Muuta tietoa Onnenpyörästä
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+Jos löydät bugeja tai sinulla on muuta kerrottavaa, lähetä sähköpostia alla olevaan osoitteeseen.
+
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+Päivityksiä ja uusia tehtäviä löytyy alla olevasta osoitteesta.
+
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+©TESI software 1995-1998
+
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+www:  http://personal.inet.fi/cool/siironen/tesisoftware
+e-mail: tesisoftware@usa.net
+
+
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+Tero Siironen
+
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+www:  http://personal.inet.fi/cool/siironen/tero
+e-mail: tero.siironen@usa.net
+
+Onnenpyörän säännöt
+Saannot
+onnenpyörän säännöt
+
+
+
+
+
+
+2
+0
+15
+3
+MS Sans Serif
+16
+0
+245
+101
+0
+1
+0
+0
+
+
+Onnenpyörän säännöt:
+
+3
+MS Sans Serif
+16
+0
+389
+101
+0
+0
+0
+0
+
+
+Säännöt ovat samat kuin kotoisen television Onnenpyörässä eli:
+
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+1) Pelissä pelataan viisi kierrosta, jokainen aloittaa kierroksen vuorollaan.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+2) Teot pitää tehdä noin viiden sekunnin sisällä, muuten vuoro vaihtuu.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+3) Vuorollaan pelaaja voi pyörittää, ostaa vokaalin tai yrittää ratkaista.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+4) Vokaalia ei voi ostaa jos pelaajalla ei ole vähintään 300 pistettä.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+   - Jos yhtään valittua vokaalia ei ole, pelaaja ei menetä 300 pistettä, vain vuoronsa.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+5) Pyöräytyksen jälkeen pelaajan on valittava konsonantti.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+6) Yhdellä vuorolla voi ostaa vain yhden vokaalin.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+7) Ratkaistuaan tehtävän pelaajan kokonaispisteihin lisätään pelaajan keräämät pisteet.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+   - Jos pelaajalla ei ole yhtään pisteitä ja hän ratkaisee tehtävän lisätään kokonaispisteisiin 300 pistettä.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+8) Pelaajan pyörittäessä yllätyssektorin, saa hän yllätyspalkinnon jos hän tietää tehtävästä oikein yhden vokaalin tai konsonantin.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+9) Jos pelaaja pyörittää superyllätyssektorin ja onnistuu ratkaisemaan tehtävän saa hän superyllätyspalkinnon.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+10) Bonus tehtävään pääsee se pelaaja joka on kerännyt pelin aikana eniten pisteitä.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+11) Bonus tehtävässä pelaajalle annetaan apuina kaksi konsonanttia ja yksi vokaali.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+12) Bonus tehtävässä pelaajalla on 30 sekuntia aikaa ratkaista tehtävä.
+
+Pelin ohjeet
+Lisasaannot
+pelin ohjeet
+
+
+
+
+
+3
+0
+3
+3
+MS Sans Serif
+16
+0
+245
+101
+0
+1
+0
+0
+
+
+Onnenpyörä peliä koskevat ohjeet:
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+Pelissä tekojen välillä aikaa on noin seitsemän sekuntia.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+Kun pelaaja yrittää ratkaista normaalia tehtävää on aikaa noin 45 sekuntia, mutta jos kahden kirjaimen painamisen välillä on kulunut seitsemän sekuntia aika loppuu. Normaali tehtävän ratkaisussa EI VOI KORJATA tehtyä virhettä vaan koko ruutu pyyhkiytyy, jos sitä yritetään.
+
+3
+MS Sans Serif
+16
+0
+533
+101
+0
+0
+0
+0
+
+
+Aina kun peli syystä tai toisesta keskeytyy (esim. aika loppuu) piilotetaan tehtäväikkuna ja kirjain ikkuna, jotta ei ole mahdollista hyötyä tilanteesta.
+
+

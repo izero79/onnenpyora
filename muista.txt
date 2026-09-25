@@ -1,0 +1,6 @@
+op.hlp
+op.cnt
+bteht.txt
+teht.txt
+reg.dat
+pelaajat.dat

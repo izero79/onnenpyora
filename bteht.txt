@@ -1,0 +1,24 @@
+0   1234567890123 1234567890123 1234567890123 1234567890123 aihe             k k v 1234567890123123456789012312345678901231234567890123
+1                   VAPAUDEN       PATSAS                   PAIKKA           D V E VAPAUDEN PATSAS
+2     SÄVELTÄJÄ     EINOJUHANI    RAUTAVAARA                HENKILÖ          T V Ä SÄVELTÄJÄ EINOJUHANI RAUTAVAARA
+3       PISAN        KALTEVA        TORNI                   PAIKKA           N T I PISAN KALTEVA TORNI
+4                  KIRJAILIJA   STEPHEN KING                HENKILÖ          S H I KIRJAILIJA STEPHEN KING
+5   TAIDEMAALARI     MARIKA        MÄKELÄ                   HENKILÖ          M K I TAIDEMAALARI MARIKA MÄKELÄ
+6    MISS SUOMI      JONNA        KAUPPILA                  HENKILÖ          J L U MISS SUOMI JONNA KAUPPILA
+7    PÄÄJOHTAJA       PEKKA       TUOMISTO                  HENKILÖ          T P Ä PÄÄJOHTAJA PEKKA TUOMISTO
+8                   SILTALAN      PEHTOORI                  ELOKUVA          L S E SILTALAN PEHTOORI
+9      TARZAN,       APINAIN      KUNINGAS                  FIKTIOHENKILÖ    G P U TARZAN, APINAIN KUNINGAS
+10                MÄKIHYPPÄÄJÄ  JANI SOININEN               HENKILÖ          K J O MÄKIHYPPÄÄJÄ JANI SOININEN
+11                  TANSSIJA    AIRA SAMULIN                HENKILÖ          S T U TANSSIJA AIRA SAMULIN
+12                 KIRJAILIJA    JARI TERVO                 HENKILÖ          K V A KIRJAILIJA JARI TERVO
+13    KALASTAJA      PENTTI        LINKOLA                  HENKILÖ          K P I KALASTAJA PENTTI LINKOLA
+14                 KIRJAILIJA     DARIO FO                  HENKILÖ          D R I KIRJAILIJA DARIO FO
+15                 DON HUONOT                               MUSIIKKI         D U T DON HUONOT
+16   TAITEILIJA       ALVAR      GULLICHSEN                 HENKILÖ          C G E TAITEILIJA ALVAR GULLICHSEN
+17   KITARISTI,      LAULAJA    CARL PERKINS                HENKILÖ          K T E KITARISTI, LAULAJA CARL PERKINS
+18                 ASTERIX JA      OBELIX                   FIKTIOHENKILÖ    S I A ASTERIX JA OBELIX
+19                   KHEOPSIN      PYRAMIDI                 PAIKKA           D K O KHEOPSIN PYRAMIDI
+20  KATARIINA JA  MUNKKINIEMEN     KREIVI                   ELOKUVA          R N U KATARIINA JA MUNKKINIEMEN KREIVI
+21   NÄYTTELIJÄ    MARJA-LEENA      KOUKI                   HENKILÖ          M L I NÄYTTELIJÄ MARJA-LEENA KOUKI
+22                 AKATEEMIKKO   VEIJO MERI                 HENKILÖ          V T I AKATEEMIKKO VEIJO MERI
+23                 GOLDEN GATE      SILTA                   PAIKKA           D T I GOLDEN GATE SILTA
